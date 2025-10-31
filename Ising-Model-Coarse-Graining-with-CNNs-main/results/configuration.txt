@@ -1,0 +1,32 @@
+============================================================
+TRAINING CONFIGURATION SUMMARY
+============================================================
+
+Dataset Configuration:
+------------------------------------------------------------
+Lattice Size: 16x16
+Total Configurations: 1600
+Number of Temperatures: 8
+Configs per Temperature: 200
+Equilibration Steps: 1000
+Sampling Interval: 10
+
+Temperatures Sampled:
+  T_1 = 0.500
+  T_2 = 1.000
+  T_3 = 1.500
+  T_4 = 2.000
+  T_5 = 2.500
+  T_6 = 3.000
+  T_7 = 3.500
+  T_8 = 4.000
+
+Magnetization Statistics:
+  Mean: -0.0007
+  Std:  0.7143
+  Min:  -1.0000
+  Max:  1.0000
+
+Generation Time: 2025-10-30 08:12:05
+
+============================================================
